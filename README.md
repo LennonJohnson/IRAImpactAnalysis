@@ -3,7 +3,7 @@ Analyze the impact the Inlaftion Reduction Act (IRA)  had on inflation
 
 ### Steps
 <ul>
-  <li>Get Data from Fred API/li>
+  <li>Get Data from Fred API </li>
   <li>Clean / validate data and split into pre and post-IRA </li>
   <li>Forecast inflation using pre-IRA data with Prophet</li>
   <li>Analyze and visualize the impact the IRA had by comparing the post-IRA data with forecast</li>
